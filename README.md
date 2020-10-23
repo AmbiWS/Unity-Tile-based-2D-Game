@@ -23,5 +23,3 @@ Code can be found [here!](https://github.com/AmbiWS/Unity-Tile-based-2D-Game/tre
 ![Screenshot 1](https://github.com/AmbiWS/Unity-Tile-based-2D-Game/blob/main/Assets/Screenshots/1.JPG)  
 ![Screenshot 2](https://github.com/AmbiWS/Unity-Tile-based-2D-Game/blob/main/Assets/Screenshots/2.JPG)  
 ![Screenshot 3](https://github.com/AmbiWS/Unity-Tile-based-2D-Game/blob/main/Assets/Screenshots/3.JPG)
-
-###### ~0.75
